@@ -1,0 +1,13 @@
+[project]
+name = "ai-security-dataset"
+version = "0.1.0"
+description = "Unified AI safety dataset collector"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=3.0.0",
+    "pandas>=2.0.0",
+    "pyarrow>=14.0.0",
+    "huggingface-hub>=0.20.0",
+    "requests>=2.31.0",
+    "tqdm>=4.66.0",
+]
