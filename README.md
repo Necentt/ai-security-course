@@ -22,7 +22,7 @@ uv run collect_datasets.py
 uv run collect_datasets.py --hf-token YOUR_TOKEN
 
 # Или загрузить готовый
-python -c "from datasets import load_dataset; ds = load_dataset('Necent/ai-security-dataset')"
+python -c "from datasets import load_dataset; ds = load_dataset('Necent/llm-jailbreak-prompt-injection-dataset')"
 ```
 
 ### Параметры
@@ -37,7 +37,7 @@ python -c "from datasets import load_dataset; ds = load_dataset('Necent/ai-secur
 
 ## Датасет
 
-**[Necent/ai-security-dataset](https://huggingface.co/datasets/Necent/ai-security-dataset)** — 691K примеров, 26 языков
+**[Necent/llm-jailbreak-prompt-injection-dataset](https://huggingface.co/datasets/Necent/llm-jailbreak-prompt-injection-dataset)** — 691K примеров, 26 языков
 
 Схема:
 
