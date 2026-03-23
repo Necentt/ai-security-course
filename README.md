@@ -62,5 +62,4 @@ python -c "from datasets import load_dataset; ds = load_dataset('Necent/ai-secur
 
 ## Авторы
 
-[https://github.com/umbilnm](Устинов Кирилл)
-[https://github.com/necentt](Борис Мацаков)
+[Устинов Кирилл](https://github.com/umbilnm), [Борис Мацаков](https://github.com/Necentt)
